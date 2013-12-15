@@ -1,1 +1,8 @@
 /bin
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+*.~lock*
